@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UsingDirectives>
+  <direcitve>
+    <name>net.rim.device.api.ui.container</name>
+  </direcitve>
+  <directive>
+    <Name>net.rim.device.api.ui</Name>
+  </directive>
+</UsingDirectives>

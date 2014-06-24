@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Keywords>
+  <keyword>
+    <CSharp>sealed</CSharp>
+    <Java>final</Java>
+  </keyword>
+  <keyword>
+    <CSharp>base.</CSharp>
+    <Java>super.</Java>
+  </keyword>
+  <keyword>
+    <CSharp>bool</CSharp>
+    <Java>boolean</Java>
+  </keyword>
+  <keyword>
+    <CSharp>operator</CSharp>
+    <Java></Java>
+  </keyword>
+  <keyword>
+    <CSharp>string</CSharp>
+    <Java>String</Java>
+  </keyword>
+  <keyword>
+    <CSharp>internal protected</CSharp>
+    <Java>protected</Java>
+  </keyword>
+  <keyword>
+    <CSharp>internal class</CSharp>
+    <Java>class</Java>
+  </keyword>
+  <keyword>
+    <CSharp>protected class</CSharp>
+    <Java>class</Java>
+  </keyword>
+  <keyword>
+    <CSharp>internal</CSharp>
+    <Java>protected</Java>
+  </keyword>
+</Keywords>

@@ -1,0 +1,5 @@
+C:\Lennie\Work\CSharpBlackberry\CS4BB\InterfacesDemo\bin\Release\InterfacesDemo.exe
+C:\Lennie\Work\CSharpBlackberry\CS4BB\InterfacesDemo\bin\Release\InterfacesDemo.pdb
+C:\Lennie\Work\CSharpBlackberry\CS4BB\InterfacesDemo\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Lennie\Work\CSharpBlackberry\CS4BB\InterfacesDemo\obj\x86\Release\InterfacesDemo.exe
+C:\Lennie\Work\CSharpBlackberry\CS4BB\InterfacesDemo\obj\x86\Release\InterfacesDemo.pdb

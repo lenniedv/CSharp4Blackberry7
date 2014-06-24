@@ -1,0 +1,5 @@
+C:\Lennie\Work\CSharpBlackberry\CS4BB\AutoPropertiesDemo\bin\Release\AutoPropertiesDemo.exe
+C:\Lennie\Work\CSharpBlackberry\CS4BB\AutoPropertiesDemo\bin\Release\AutoPropertiesDemo.pdb
+C:\Lennie\Work\CSharpBlackberry\CS4BB\AutoPropertiesDemo\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Lennie\Work\CSharpBlackberry\CS4BB\AutoPropertiesDemo\obj\x86\Release\AutoPropertiesDemo.exe
+C:\Lennie\Work\CSharpBlackberry\CS4BB\AutoPropertiesDemo\obj\x86\Release\AutoPropertiesDemo.pdb

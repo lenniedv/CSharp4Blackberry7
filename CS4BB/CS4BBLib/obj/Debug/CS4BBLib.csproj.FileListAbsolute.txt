@@ -1,0 +1,5 @@
+C:\Lennie\Work\CS4BB\CS4BBLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Lennie\Work\CS4BB\CS4BBLib\bin\Debug\CS4BBLib.dll
+C:\Lennie\Work\CS4BB\CS4BBLib\bin\Debug\CS4BBLib.pdb
+C:\Lennie\Work\CS4BB\CS4BBLib\obj\Debug\CS4BBLib.dll
+C:\Lennie\Work\CS4BB\CS4BBLib\obj\Debug\CS4BBLib.pdb

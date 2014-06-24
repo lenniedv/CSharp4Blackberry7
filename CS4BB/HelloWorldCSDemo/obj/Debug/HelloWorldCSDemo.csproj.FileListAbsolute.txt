@@ -1,0 +1,7 @@
+C:\Lennie\Work\CS4BB\HelloWorldCSDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Lennie\Work\CS4BB\HelloWorldCSDemo\bin\Debug\HelloWorldCSDemo.exe
+C:\Lennie\Work\CS4BB\HelloWorldCSDemo\bin\Debug\HelloWorldCSDemo.pdb
+C:\Lennie\Work\CS4BB\HelloWorldCSDemo\bin\Debug\CS4BBLib.dll
+C:\Lennie\Work\CS4BB\HelloWorldCSDemo\bin\Debug\CS4BBLib.pdb
+C:\Lennie\Work\CS4BB\HelloWorldCSDemo\obj\Debug\HelloWorldCSDemo.exe
+C:\Lennie\Work\CS4BB\HelloWorldCSDemo\obj\Debug\HelloWorldCSDemo.pdb

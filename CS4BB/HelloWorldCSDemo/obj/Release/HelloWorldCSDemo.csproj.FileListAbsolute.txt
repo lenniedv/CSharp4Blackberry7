@@ -1,0 +1,6 @@
+C:\Lennie\Work\CSharpBlackberry\CS4BB\HelloWorldCSDemo\bin\Release\HelloWorldCSDemo.exe.config
+C:\Lennie\Work\CSharpBlackberry\CS4BB\HelloWorldCSDemo\obj\Release\ResolveAssemblyReference.cache
+C:\Lennie\Work\CSharpBlackberry\CS4BB\HelloWorldCSDemo\bin\Release\HelloWorldCSDemo.exe
+C:\Lennie\Work\CSharpBlackberry\CS4BB\HelloWorldCSDemo\bin\Release\HelloWorldCSDemo.pdb
+C:\Lennie\Work\CSharpBlackberry\CS4BB\HelloWorldCSDemo\obj\Release\HelloWorldCSDemo.exe
+C:\Lennie\Work\CSharpBlackberry\CS4BB\HelloWorldCSDemo\obj\Release\HelloWorldCSDemo.pdb

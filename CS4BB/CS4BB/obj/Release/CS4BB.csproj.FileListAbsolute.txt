@@ -1,0 +1,10 @@
+C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BB\bin\Release\CS4BB.exe.config
+C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BB\bin\Release\CS4BB.exe
+C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BB\bin\Release\CS4BB.pdb
+C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BB\obj\Release\ResolveAssemblyReference.cache
+C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BB\obj\Release\CS4BB.exe
+C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BB\obj\Release\CS4BB.pdb
+C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BB\bin\Release\xml\keywords.xml
+C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BB\bin\Release\xml\UsingDirectives.xml
+C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BB\bin\Release\nunit.framework.dll
+C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BB\bin\Release\nunit.framework.xml

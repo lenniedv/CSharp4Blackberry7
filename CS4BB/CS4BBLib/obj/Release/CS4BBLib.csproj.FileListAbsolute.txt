@@ -1,0 +1,10 @@
+C:\Lennie\Work\CS4BB\CS4BBLib\bin\Release\CS4BBLib.dll
+C:\Lennie\Work\CS4BB\CS4BBLib\bin\Release\CS4BBLib.pdb
+C:\Lennie\Work\CS4BB\CS4BBLib\obj\Release\ResolveAssemblyReference.cache
+C:\Lennie\Work\CS4BB\CS4BBLib\obj\Release\CS4BBLib.dll
+C:\Lennie\Work\CS4BB\CS4BBLib\obj\Release\CS4BBLib.pdb
+C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BBLib\obj\Release\ResolveAssemblyReference.cache
+C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BBLib\obj\Release\CS4BBLib.pdb
+C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BBLib\bin\Release\CS4BBLib.dll
+C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BBLib\bin\Release\CS4BBLib.pdb
+C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BBLib\obj\Release\CS4BBLib.dll

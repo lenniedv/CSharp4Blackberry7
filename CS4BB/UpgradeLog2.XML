@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CS4BB">
+</Property><Property Name="Solution File" Value="C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BB.sln">
+</Property><Property Name="User Options File" Value="C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BB.suo">
+</Property><Property Name="Date" Value="30 May 2010">
+</Property><Property Name="Time" Value="10:37 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CS4BB.sln" Description="File successfully backed up as C:\Lennie\Work\CSharpBlackberry_Backup\Backup\CS4BB.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CS4BB.suo" Description="File successfully backed up as C:\Lennie\Work\CSharpBlackberry_Backup\Backup\CS4BB.suo">
+</Event><Event ErrorLevel="0" Project="CS4BB" Source="CS4BB\CS4BB.csproj" Description="Project file successfully backed up as C:\Lennie\Work\CSharpBlackberry_Backup\Backup\CS4BB\CS4BB.csproj">
+</Event><Event ErrorLevel="0" Project="CS4BB" Source="CS4BB\Program.cs" Description="File successfully backed up as C:\Lennie\Work\CSharpBlackberry_Backup\Backup\CS4BB\Program.cs">
+</Event><Event ErrorLevel="0" Project="CS4BB" Source="CS4BB\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Lennie\Work\CSharpBlackberry_Backup\Backup\CS4BB\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CS4BB" Source="CS4BB\Documentation\Java Blackberry API.txt" Description="File successfully backed up as C:\Lennie\Work\CSharpBlackberry_Backup\Backup\CS4BB\Documentation\Java Blackberry API.txt">
+</Event><Event ErrorLevel="0" Project="CS4BB" Source="CS4BB\CS4BB.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CS4BB" Source="CS4BB\CS4BB.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CS4BBLib" Source="CS4BBLib\CS4BBLib.csproj" Description="Project file successfully backed up as C:\Lennie\Work\CSharpBlackberry_Backup\Backup\CS4BBLib\CS4BBLib.csproj">
+</Event><Event ErrorLevel="0" Project="CS4BBLib" Source="CS4BBLib\ui\component\Component.cs" Description="File successfully backed up as C:\Lennie\Work\CSharpBlackberry_Backup\Backup\CS4BBLib\ui\component\Component.cs">
+</Event><Event ErrorLevel="0" Project="CS4BBLib" Source="CS4BBLib\ui\component\LabelField.cs" Description="File successfully backed up as C:\Lennie\Work\CSharpBlackberry_Backup\Backup\CS4BBLib\ui\component\LabelField.cs">
+</Event><Event ErrorLevel="0" Project="CS4BBLib" Source="CS4BBLib\container\MainScreen.cs" Description="File successfully backed up as C:\Lennie\Work\CSharpBlackberry_Backup\Backup\CS4BBLib\container\MainScreen.cs">
+</Event><Event ErrorLevel="0" Project="CS4BBLib" Source="CS4BBLib\ui\UiApplication.cs" Description="File successfully backed up as C:\Lennie\Work\CSharpBlackberry_Backup\Backup\CS4BBLib\ui\UiApplication.cs">
+</Event><Event ErrorLevel="0" Project="CS4BBLib" Source="CS4BBLib\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Lennie\Work\CSharpBlackberry_Backup\Backup\CS4BBLib\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CS4BBLib" Source="CS4BBLib\CS4BBLib.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CS4BBLib" Source="CS4BBLib\CS4BBLib.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="HelloWorldCSDemo" Source="HelloWorldCSDemo\HelloWorldCSDemo.csproj" Description="Project file successfully backed up as C:\Lennie\Work\CSharpBlackberry_Backup\Backup\HelloWorldCSDemo\HelloWorldCSDemo.csproj">
+</Event><Event ErrorLevel="0" Project="HelloWorldCSDemo" Source="HelloWorldCSDemo\HelloWorldMainScreen.cs" Description="File successfully backed up as C:\Lennie\Work\CSharpBlackberry_Backup\Backup\HelloWorldCSDemo\HelloWorldMainScreen.cs">
+</Event><Event ErrorLevel="0" Project="HelloWorldCSDemo" Source="HelloWorldCSDemo\Program.cs" Description="File successfully backed up as C:\Lennie\Work\CSharpBlackberry_Backup\Backup\HelloWorldCSDemo\Program.cs">
+</Event><Event ErrorLevel="0" Project="HelloWorldCSDemo" Source="HelloWorldCSDemo\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Lennie\Work\CSharpBlackberry_Backup\Backup\HelloWorldCSDemo\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="HelloWorldCSDemo" Source="HelloWorldCSDemo\HelloWorldCSDemo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="HelloWorldCSDemo" Source="HelloWorldCSDemo\HelloWorldCSDemo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CS4BB.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CS4BB.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CS4BB" Source="CS4BB\CS4BB.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="CS4BBLib" Source="CS4BBLib\CS4BBLib.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="HelloWorldCSDemo" Source="HelloWorldCSDemo\HelloWorldCSDemo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

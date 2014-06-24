@@ -1,0 +1,5 @@
+C:\Lennie\Work\CSharpBlackberry\CS4BB\Test\bin\Release\Test.exe
+C:\Lennie\Work\CSharpBlackberry\CS4BB\Test\bin\Release\Test.pdb
+C:\Lennie\Work\CSharpBlackberry\CS4BB\Test\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Lennie\Work\CSharpBlackberry\CS4BB\Test\obj\x86\Release\Test.exe
+C:\Lennie\Work\CSharpBlackberry\CS4BB\Test\obj\x86\Release\Test.pdb

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BB\bin\Release\CS4BB.exe" total="15" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2010-07-11" time="17:09:27">
+  <environment nunit-version="2.5.5.10112" clr-version="2.0.50727.4927" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="C:\Program Files\NUnit 2.5.5\bin\net-2.0" machine-name="LENNIE-PC" user="Lennie" user-domain="Lennie-PC" />
+  <culture-info current-culture="en-ZA" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BB\bin\Release\CS4BB.exe" executed="True" result="Failure" success="False" time="1.508" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="CS4BB" executed="True" result="Failure" success="False" time="1.505" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Failure" success="False" time="1.502" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Core" executed="True" result="Failure" success="False" time="1.501" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="AutoPropertiesCompTest" executed="True" result="Success" success="True" time="0.826" asserts="0">
+                    <results>
+                      <test-case name="CS4BB.Tests.Core.AutoPropertiesCompTest.Compile" executed="True" result="Success" success="True" time="0.821" asserts="2" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="ClassDefinitionCompTest" executed="True" result="Success" success="True" time="0.011" asserts="0">
+                    <results>
+                      <test-case name="CS4BB.Tests.Core.ClassDefinitionCompTest.AddDefaultModifier" executed="True" result="Success" success="True" time="0.003" asserts="2" />
+                      <test-case name="CS4BB.Tests.Core.ClassDefinitionCompTest.ClassWithOneSuperClass" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                      <test-case name="CS4BB.Tests.Core.ClassDefinitionCompTest.ImplementInterfaceAndClass" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                      <test-case name="CS4BB.Tests.Core.ClassDefinitionCompTest.ImplementOnlyAnInterface" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                      <test-case name="CS4BB.Tests.Core.ClassDefinitionCompTest.NormalClass" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="KeywordsCompTest" executed="True" result="Success" success="True" time="0.004" asserts="0">
+                    <results>
+                      <test-case name="CS4BB.Tests.Core.KeywordsCompTest.ConvertBase" executed="True" result="Success" success="True" time="0.002" asserts="2" />
+                      <test-case name="CS4BB.Tests.Core.KeywordsCompTest.RemoveKeyword" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="MainMethodCompTest" executed="True" result="Success" success="True" time="0.004" asserts="0">
+                    <results>
+                      <test-case name="CS4BB.Tests.Core.MainMethodCompTest.Compile" executed="True" result="Success" success="True" time="0.003" asserts="2" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="MethodDefinitionCompTest" executed="True" result="Success" success="True" time="0.010" asserts="0">
+                    <results>
+                      <test-case name="CS4BB.Tests.Core.MethodDefinitionCompTest.IdentifyOne" executed="True" result="Success" success="True" time="0.002" asserts="2" />
+                      <test-case name="CS4BB.Tests.Core.MethodDefinitionCompTest.IdentifyThree" executed="True" result="Success" success="True" time="0.003" asserts="2" />
+                      <test-case name="CS4BB.Tests.Core.MethodDefinitionCompTest.IdentifyTwo" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="NamespaceCompDirectiveTest" executed="True" result="Failure" success="False" time="0.010" asserts="0">
+                    <results>
+                      <test-case name="CS4BB.Tests.Core.NamespaceCompDirectiveTest.Compile" executed="True" result="Error" success="False" time="0.010" asserts="0">
+                        <failure>
+                          <message><![CDATA[System.NullReferenceException : Object reference not set to an instance of an object.]]></message>
+                          <stack-trace><![CDATA[at CS4BB.lang.NamespaceComp.Compile(SourceCode aSourceCode, String aCurrentCodeLine, Int32 aLinePosition) in C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BB\lang\NamespaceComp.cs:line 22
+at CS4BB.Generator.RunCompile() in C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BB\Generator.cs:line 78
+at CS4BB.Generator.Run() in C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BB\Generator.cs:line 56
+at CS4BB.Tests.Core.NamespaceCompDirectiveTest.Compile() in C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BB\Tests\Core\NamespaceCompDirectiveTest.cs:line 18
+]]></stack-trace>
+                        </failure>
+                      </test-case>
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="UsingCompDirectiveTest" executed="True" result="Success" success="True" time="0.594" asserts="0">
+                    <results>
+                      <test-case name="CS4BB.Tests.Core.UsingCompDirectiveTest.Compile" executed="True" result="Success" success="True" time="0.589" asserts="2" />
+                      <test-case name="CS4BB.Tests.Core.UsingCompDirectiveTest.NotSupportedYet" executed="True" result="Success" success="True" time="0.003" asserts="2" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

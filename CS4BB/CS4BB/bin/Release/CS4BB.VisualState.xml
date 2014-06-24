@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1022]C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BB\bin\Release\CS4BB.exe</TopNode>
+  <SelectedNode>[0-1017]CS4BB.Tests.Core.NamespaceCompDirectiveTest.Compile</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1022]C:\Lennie\Work\CSharpBlackberry\CS4BB\CS4BB\bin\Release\CS4BB.exe" Expanded="true" />
+    <Node UniqueName="[0-1023]CS4BB" Expanded="true" />
+    <Node UniqueName="[0-1024]CS4BB.Tests" Expanded="true" />
+    <Node UniqueName="[0-1025]CS4BB.Tests.Core" Expanded="true" />
+    <Node UniqueName="[0-1008]CS4BB.Tests.Core.AutoPropertiesCompTest" Expanded="true" />
+    <Node UniqueName="[0-1002]CS4BB.Tests.Core.ClassDefinitionCompTest" Expanded="true" />
+    <Node UniqueName="[0-1010]CS4BB.Tests.Core.KeywordsCompTest" Expanded="true" />
+    <Node UniqueName="[0-1000]CS4BB.Tests.Core.MainMethodCompTest" Expanded="true" />
+    <Node UniqueName="[0-1018]CS4BB.Tests.Core.MethodDefinitionCompTest" Expanded="true" />
+    <Node UniqueName="[0-1016]CS4BB.Tests.Core.NamespaceCompDirectiveTest" Expanded="true" />
+    <Node UniqueName="[0-1013]CS4BB.Tests.Core.UsingCompDirectiveTest" Expanded="true" />
+  </Nodes>
+</VisualState>

@@ -1,0 +1,5 @@
+﻿We use nUnit 2.5 (www.nunit.org/)
+
+- All new features must have tests under /Core
+- Issues must have a test to duplicate the issue and also to resolve under /Issues (currently no issues yet ;)
+- All tests MUST pass before code get committed to main trunk.

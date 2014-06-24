@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS4BB", "CS4BB\CS4BB.csproj", "{AC9A5DEF-DBAE-4B61-B3AC-C130CAF48D4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS4BBLib", "CS4BBLib\CS4BBLib.csproj", "{8C2F3368-E8AA-4D2A-8CCE-742F15581C1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldCSDemo", "HelloWorldCSDemo\HelloWorldCSDemo.csproj", "{ED713DDD-D70D-4643-AA17-C9A74E064C21}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 4
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CS4BB\\CS4BB.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = CS4BB\\
+		SccProjectUniqueName2 = CS4BBLib\\CS4BBLib.csproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = CS4BBLib\\
+		SccProjectUniqueName3 = HelloWorldCSDemo\\HelloWorldCSDemo.csproj
+		SccLocalPath3 = .
+		SccProjectFilePathRelativizedFromConnection3 = HelloWorldCSDemo\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC9A5DEF-DBAE-4B61-B3AC-C130CAF48D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9A5DEF-DBAE-4B61-B3AC-C130CAF48D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9A5DEF-DBAE-4B61-B3AC-C130CAF48D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9A5DEF-DBAE-4B61-B3AC-C130CAF48D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C2F3368-E8AA-4D2A-8CCE-742F15581C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C2F3368-E8AA-4D2A-8CCE-742F15581C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C2F3368-E8AA-4D2A-8CCE-742F15581C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C2F3368-E8AA-4D2A-8CCE-742F15581C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED713DDD-D70D-4643-AA17-C9A74E064C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED713DDD-D70D-4643-AA17-C9A74E064C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED713DDD-D70D-4643-AA17-C9A74E064C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED713DDD-D70D-4643-AA17-C9A74E064C21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
