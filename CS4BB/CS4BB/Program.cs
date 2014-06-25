@@ -14,7 +14,7 @@ namespace CS4BB
         {
             Console.WriteLine("C# For Blackberry Version " + GeneralUtils.GetVersionNumber());
             Console.WriteLine("GNU Lesser General Public License: http://www.gnu.org/licenses/lgpl.html\n\n");
-            bool debugMode = false; // TODO: Read this from application config
+			bool debugMode = true; // TODO: Read this from application config
 
             try
             {

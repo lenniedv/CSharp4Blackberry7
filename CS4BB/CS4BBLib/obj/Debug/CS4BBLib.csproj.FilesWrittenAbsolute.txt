@@ -1,0 +1,4 @@
+/Users/lenniedevilliers/temp/CSharp4Blackberry7/CS4BB/CS4BBLib/bin/Debug/CS4BBLib.dll.mdb
+/Users/lenniedevilliers/temp/CSharp4Blackberry7/CS4BB/CS4BBLib/bin/Debug/CS4BBLib.dll
+/Users/lenniedevilliers/temp/CSharp4Blackberry7/CS4BB/CS4BBLib/obj/Debug/CS4BBLib.dll
+/Users/lenniedevilliers/temp/CSharp4Blackberry7/CS4BB/CS4BBLib/obj/Debug/CS4BBLib.dll.mdb

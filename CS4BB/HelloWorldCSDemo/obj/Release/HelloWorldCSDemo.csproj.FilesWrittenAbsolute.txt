@@ -1,0 +1,6 @@
+/Users/lenniedevilliers/temp/CSharp4Blackberry7/CS4BB/HelloWorldCSDemo/bin/Release/HelloWorldCSDemo.exe.mdb
+/Users/lenniedevilliers/temp/CSharp4Blackberry7/CS4BB/HelloWorldCSDemo/bin/Release/HelloWorldCSDemo.exe
+/Users/lenniedevilliers/temp/CSharp4Blackberry7/CS4BB/HelloWorldCSDemo/obj/Release/HelloWorldCSDemo.exe
+/Users/lenniedevilliers/temp/CSharp4Blackberry7/CS4BB/HelloWorldCSDemo/obj/Release/HelloWorldCSDemo.exe.mdb
+/Users/lenniedevilliers/temp/CSharp4Blackberry7/CS4BB/HelloWorldCSDemo/bin/Release/CS4BBLib.dll
+/Users/lenniedevilliers/temp/CSharp4Blackberry7/CS4BB/HelloWorldCSDemo/bin/Release/CS4BBLib.dll.mdb

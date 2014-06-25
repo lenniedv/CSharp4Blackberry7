@@ -1,0 +1,8 @@
+/Users/lenniedevilliers/temp/CSharp4Blackberry7/CS4BB/CS4BB/bin/Debug/xml/Keywords.xml
+/Users/lenniedevilliers/temp/CSharp4Blackberry7/CS4BB/CS4BB/bin/Debug/xml/UsingDirectives.xml
+/Users/lenniedevilliers/temp/CSharp4Blackberry7/CS4BB/CS4BB/bin/Debug/CS4BB.exe.config
+/Users/lenniedevilliers/temp/CSharp4Blackberry7/CS4BB/CS4BB/bin/Debug/CS4BB.exe.mdb
+/Users/lenniedevilliers/temp/CSharp4Blackberry7/CS4BB/CS4BB/bin/Debug/CS4BB.exe
+/Users/lenniedevilliers/temp/CSharp4Blackberry7/CS4BB/CS4BB/obj/Debug/CS4BB.exe
+/Users/lenniedevilliers/temp/CSharp4Blackberry7/CS4BB/CS4BB/obj/Debug/CS4BB.exe.mdb
+/Users/lenniedevilliers/temp/CSharp4Blackberry7/CS4BB/CS4BB/bin/Debug/nunit.framework.dll

@@ -8,7 +8,7 @@ namespace CS4BB
     public sealed class ProgramArguments
     {
         private Dictionary<string, string> arguments;
-        private string[] args;
+		//private string[] args;
 
         public ProgramArguments(string[] aArgs)
         {
